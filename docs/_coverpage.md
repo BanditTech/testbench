@@ -2,7 +2,7 @@
   Mystic Maestro  <!-- TODO: Update title -->
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
+[![GitHub tags](https://img.shields.io/github/tag/BanditTech/testbench.svg)](https://github.com/BanditTech/testbench/tags/) <!-- TODO: Update username and repo name -->
 
 >  An addon for World of Warcraft: Project Ascension, which assists you in crafting, appraising, and selling Mystic Enchantments.   <!-- TODO: Replace with your description -->
 
