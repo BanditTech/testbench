@@ -4,17 +4,17 @@
 
 [![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://GitHub.com/MichaelCurrin/docsify-js-template/tags/) <!-- TODO: Update username and repo name -->
 
->  Starter template for a Markdown-based docs site <!-- TODO: Replace with your description -->
+>  An addon for World of Warcraft: Project Ascension, which assists you in crafting, appraising, and selling Mystic Enchantments.   <!-- TODO: Replace with your description -->
 
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
 
-- :hourglass_flowing_sand: Quickly set up an elegant, responsive site
-- :open_file_folder: Use your markdown docs as content
-- :sparkles: No compilation step and no templating syntax to learn
-- :nut_and_bolt: Built on [DocsifyJS](https://docsify.js.org/)
-- :pushpin: The library loads in the browser - no local dependencies
-- :cloud: Serve locally and on GitHub Pages or Netlify
+- :hourglass_flowing_sand: Quickly establishes prices for enchantments after a few scans
+- :open_file_folder: Download and install easily from github or the launcher
+- :sparkles: Set enchants as favorite to keep an eye on
+- :nut_and_bolt: Built specifically for Project Ascension
+- :pushpin: Easy to use and intuitive interface
+- :cloud: Tracks up to 10 days of data
 
 
 
