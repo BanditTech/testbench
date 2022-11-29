@@ -17,7 +17,7 @@ This is an addon for World of Warcraft Project Ascension which helps you observe
 
 Using auction scans you can observe and begin to track the market value of Mystic Enchants.
 
-List the enchants for crafting and posting on the Auction House.
+It helps to organize the enchants for crafting and posting on the Auction House.
 
 
 ## Preview
