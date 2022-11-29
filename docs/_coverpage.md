@@ -4,7 +4,7 @@
 
 [![GitHub tags](https://img.shields.io/github/tag/BanditTech/testbench.svg)](https://github.com/BanditTech/testbench/tags/) <!-- TODO: Update username and repo name -->
 
->  An addon for World of Warcraft: Project Ascension, which assists you in crafting, appraising, and selling Mystic Enchantments.   <!-- TODO: Replace with your description -->
+>  Mystic Managed   <!-- TODO: Replace with your description -->
 
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
