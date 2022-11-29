@@ -4,7 +4,7 @@
 
 [![GitHub tags](https://img.shields.io/github/tag/BanditTech/testbench.svg)](https://github.com/BanditTech/testbench/tags/) <!-- TODO: Update username and repo name -->
 
->  Mystic Managed   <!-- TODO: Replace with your description -->
+>  ~~Mischief~~Mystic Managed   <!-- TODO: Replace with your description -->
 
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
