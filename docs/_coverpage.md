@@ -9,12 +9,12 @@
 
 <!-- TODO: Update to match your project's benefits/features. Git emojis work great here. -->
 
-- :hourglass_flowing_sand: Quickly establishes prices for enchantments after a few scans
-- :open_file_folder: Download and install easily from github or the launcher
-- :sparkles: Set enchants as favorite to keep an eye on
+- :hourglass_flowing_sand: Quickly establish prices for enchantments
+- :open_file_folder: Install easily from the launcher
+- :sparkles: Mark favorite enchants to watch
 - :nut_and_bolt: Built specifically for Project Ascension
 - :pushpin: Easy to use and intuitive interface
-- :cloud: Tracks up to 10 days of data
+- :cloud: Provides an API for other addons
 
 
 
