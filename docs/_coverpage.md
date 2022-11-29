@@ -18,7 +18,7 @@
 
 
 
-[Get Started](#docsifyjs-template) <!-- TODO: Use ID of your homepage heading -->
+[Get Started](#demystify-the-altar) <!-- TODO: Use ID of your homepage heading -->
 
 <!-- TODO: Set your background color or image. -->
 ![image](Zaffai-Thunder-Conductor-Commander-2021-MtG-Art.jpg)
